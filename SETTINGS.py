@@ -9,4 +9,9 @@ channel_name = 'geremysays'
 telegram_token = 'nnnnnnnnnnnnn:xxxXXXxXxXxXxXXxXxxXxxxxXx'
 ## Twitter User Name to get Timeline ##
 user_name = 'GeremySays'
+telegram_api_id = 12345
+
+telegram_api_hash = "0123456789abcdef0123456789abcdef"
+
+
 
